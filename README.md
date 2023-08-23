@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone, I'm Abdullah Veli Özcan. I'm currently studying Software Engineering and focusing on Machine Learning. In my free time, I enjoy working on Data Science projects.
+Hello everyone, I'm Abdullah Veli Özcan. I'm currently studying Software Engineering and focusing on Machine Learning - Artificial Intelligence . In my free time, I enjoy working on Data Science projects.
 
 
 ## 🌐 Socials:
