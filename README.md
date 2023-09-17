@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone! 👋
+### Hello everyone! 👋
 I'm Abdullah Veli Özcan. I'm currently studying Software Engineering and focusing on Machine Learning - Artificial Intelligence. I have a keen interest in keeping myself updated with the latest advancements and research in my field. As an enthusiastic learner, I am continuously on the lookout for fresh challenges to take on and to explore progressive methodologies.
 
 
