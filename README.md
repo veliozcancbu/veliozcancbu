@@ -4,7 +4,7 @@ I'm Abdullah Veli Özcan. I'm currently studying Software Engineering and focusi
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-veli-%C3%B6zcan-5b6998251/) [![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vellyy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/piccabunny) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/VeliOzcan/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Veli-%C3%96zcan-1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-veli-%C3%B6zcan-5b6998251/) [![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vellyy) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/VeliOzcan/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Veli-%C3%96zcan-1)
 
 How to reach me veliozcancbu@gmail.com
 
